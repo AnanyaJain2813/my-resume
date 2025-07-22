@@ -1,2 +1,2 @@
 # my-resume
-my resume
+I am currently pursuing B.Tech in Cyber Security and Digital Forensics at VIT Bhopal University. With hands-on experience from web development and cybersecurity internships, I am skilled in programming languages like C, C++, Python, and JavaScript. I have built projects involving encryption and phishing detection using machine learning. Certified in MATLAB, AI/ML, and Python, I also actively participate in coding competitions and hackathons. Leadership roles in student clubs have further developed my teamwork and adaptability in challenging environments.
